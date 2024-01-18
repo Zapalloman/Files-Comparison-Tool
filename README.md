@@ -4,6 +4,6 @@ With a friend a few days ago we were trying to install mods on a game we both ha
 
 For use:
 
--change what path you want to do in the code (it says literally in the code) in names-to-list.py
--put your first and second text list path onto the part that says in the code to change in lists-comparison.py
+#change what path you want to do in the code (it says literally in the code) in names-to-list.py
+#put your first and second text list path onto the part that says in the code to change in lists-comparison.py
 
